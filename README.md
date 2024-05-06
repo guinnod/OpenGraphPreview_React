@@ -38,4 +38,4 @@ const App = () => {
 export default App;
 ```
 ## Example
-![Screenshot 1](https://raw.githubusercontent.com/guinnod/meet-tracker/main/Screenshot_meet_tracker.png)
+![Screenshot 1](https://raw.githubusercontent.com/guinnod/OpenGraphPreview_React/main/photo_2024-05-05%2017.52.52.jpeg)
